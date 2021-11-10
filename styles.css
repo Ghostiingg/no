@@ -1,0 +1,49 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+div {
+ background-color:#DFAFAF;   
+border: double 10px #5EB086;
+}
+
+
+.items {
+    display: flex;
+    justify-content: center;
+}
+
+.Meals {
+display:flex;
+justify-content: center;    
+}
+
+.Dessert {
+ display:flex;
+justify-content: center;   
+}
+
+.it {
+ height:190px;   
+border: solid #A05EB0 14px;
+    padding:9px;
+    margin: 9px;
+}
+.ss{
+ height:190px;   
+border: solid #A05EB0 14px;
+    padding:9px;
+    margin: 9px;
+}
+
+.up {
+ height:190px;   
+border: solid #A05EB0 14px;
+    padding:9px;
+    margin: 9px;
+}
+
+h1 {
+font-family: 'Bebas Neue', cursive;  
+}
